@@ -5,7 +5,6 @@ import java.util.Random;
 
 class Citizen {
     private int age;
-
     public Citizen() {
         this.age = new Random().nextInt(101);
     }
