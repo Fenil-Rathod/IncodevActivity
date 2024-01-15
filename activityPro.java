@@ -82,8 +82,8 @@ public class activityPro {
         World world = new World(50);
 
         // Adding more cities
-        world.addCity("New York");
-        world.addCity("Tokyo");
+        world.addCity("Delhi");
+        world.addCity("Ahmedabad");
 
         // Getting a random city
         City randomCity = world.randomCity();
